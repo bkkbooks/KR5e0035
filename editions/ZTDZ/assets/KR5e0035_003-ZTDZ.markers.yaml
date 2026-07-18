@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5e0035_SJB_003-240904c02}
   - {type: indent, offset: 0, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind1}
   - {type: punctuation, offset: 6, content: (, id: KR5e0035_ZTDZ_003-bkkpn1}
+  - {type: voice, offset: 6, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 14, content: /, id: KR5e0035_ZTDZ_003-bkkpn2}
   - {type: punctuation, offset: 22, content: ), id: KR5e0035_ZTDZ_003-bkkpn3}
   - {type: 'kr:newline', offset: 22, content: '
@@ -410,6 +411,7 @@ markers:
   - {type: line-break, offset: 991, content: '', id: KR5e0035_SJB_003-240905c19}
   - {type: indent, offset: 991, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind69}
   - {type: punctuation, offset: 997, content: (, id: KR5e0035_ZTDZ_003-bkkpn4}
+  - {type: voice, offset: 997, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1000, content: /, id: KR5e0035_ZTDZ_003-bkkpn5}
   - {type: punctuation, offset: 1003, content: ), id: KR5e0035_ZTDZ_003-bkkpn6}
   - {type: 'kr:newline', offset: 1003, content: '
@@ -726,6 +728,7 @@ markers:
   - {type: line-break, offset: 1758, content: '', id: KR5e0035_SJB_003-240907a01}
   - {type: indent, offset: 1758, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind115}
   - {type: punctuation, offset: 1764, content: (, id: KR5e0035_ZTDZ_003-bkkpn7}
+  - {type: voice, offset: 1764, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 1769, content: /, id: KR5e0035_ZTDZ_003-bkkpn8}
   - {type: punctuation, offset: 1774, content: ), id: KR5e0035_ZTDZ_003-bkkpn9}
   - {type: 'kr:newline', offset: 1774, content: '
@@ -1162,6 +1165,7 @@ markers:
   - {type: line-break, offset: 2987, content: '', id: KR5e0035_SJB_003-240908b04}
   - {type: indent, offset: 2987, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind196}
   - {type: punctuation, offset: 2994, content: (, id: KR5e0035_ZTDZ_003-bkkpn10}
+  - {type: voice, offset: 2994, length: 38, name: note, id: n4}
   - {type: punctuation, offset: 3001, content: /, id: KR5e0035_ZTDZ_003-bkkpn11}
   - {type: punctuation, offset: 3007, content: ), id: KR5e0035_ZTDZ_003-bkkpn12}
   - {type: 'kr:newline', offset: 3007, content: '
@@ -1397,6 +1401,7 @@ markers:
   - {type: line-break, offset: 3571, content: '', id: KR5e0035_SJB_003-240909a10}
   - {type: indent, offset: 3571, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind231}
   - {type: punctuation, offset: 3578, content: (, id: KR5e0035_ZTDZ_003-bkkpn16}
+  - {type: voice, offset: 3578, length: 10, name: note, id: n5}
   - {type: punctuation, offset: 3583, content: /, id: KR5e0035_ZTDZ_003-bkkpn17}
   - {type: punctuation, offset: 3588, content: ), id: KR5e0035_ZTDZ_003-bkkpn18}
   - {type: paragraph-break, offset: 3588, content: '
@@ -1795,6 +1800,7 @@ markers:
   - {type: line-break, offset: 4655, content: '', id: KR5e0035_SJB_003-240910b08}
   - {type: indent, offset: 4655, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind294}
   - {type: punctuation, offset: 4662, content: (, id: KR5e0035_ZTDZ_003-bkkpn19}
+  - {type: voice, offset: 4662, length: 14, name: note, id: n6}
   - {type: punctuation, offset: 4669, content: /, id: KR5e0035_ZTDZ_003-bkkpn20}
   - {type: punctuation, offset: 4676, content: ), id: KR5e0035_ZTDZ_003-bkkpn21}
   - {type: 'kr:newline', offset: 4676, content: '
@@ -2053,6 +2059,7 @@ markers:
   - {type: line-break, offset: 5391, content: '', id: KR5e0035_SJB_003-240911a18}
   - {type: indent, offset: 5391, content: 　　　, id: KR5e0035_ZTDZ_003-bkkind338}
   - {type: punctuation, offset: 5398, content: (, id: KR5e0035_ZTDZ_003-bkkpn22}
+  - {type: voice, offset: 5398, length: 242, name: note, id: n7}
   - {type: punctuation, offset: 5405, content: /, id: KR5e0035_ZTDZ_003-bkkpn23}
   - {type: punctuation, offset: 5412, content: ), id: KR5e0035_ZTDZ_003-bkkpn24}
   - {type: 'kr:newline', offset: 5412, content: '
@@ -2268,4 +2275,4 @@ markers:
 
       ', id: KR5e0035_ZTDZ_003-bkkkrnewl432}
   back: []
-hash: sha256:f129b93c069ffcd26b60baf186546a10d4cb6a5dc877bb1afc2484f2f6bad5ad
+hash: sha256:f840d856d2613bad9e1f9f77affbf84b2e7dd4145d41609775001ae62656103c
